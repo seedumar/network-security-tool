@@ -64,6 +64,6 @@ Feel free to fork this repository, open issues, or submit pull requests!
 
 📧 Contact
 
-For any queries, reach out at your-email@example.com or create an issue in the repository.
+For any queries, reach out at Seedumar1999@gmail.com or create an issue in the repository.
 
 🚀 Happy Hacking! 🔥
